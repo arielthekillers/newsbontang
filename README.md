@@ -1,5 +1,7 @@
 # News Bontang
 
+![alt text](https://github.com/arielthekillers/newsbontang/blob/main/public/newsbontang.png?raw=true)
+
 ## Apa itu News Bontang?
 
 News bontang merupakan sebuat platform aplikasi untuk sistem management pemberitaan,
